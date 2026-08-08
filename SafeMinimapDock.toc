@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: Safe Minimap Dock
+## Notes: Manual minimap icon dock without reparenting.
+## Author: OpenAI
+## Version: 1.0
+## SavedVariables: SafeMinimapDockDB
+
+SafeMinimapDock.lua
