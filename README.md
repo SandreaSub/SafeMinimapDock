@@ -43,7 +43,7 @@ Resets the dock position.
 ## Moving the dock
 Use /mdock show
 Then drag the MINIMAP handle to wherever you want the icons.
-Once you're finished, use : /mdock hide
+Once you're finished, use : /mdock hide 
 The dock becomes invisible again, while hovering over its location reveals your minimap buttons.
 
 ## Notes
