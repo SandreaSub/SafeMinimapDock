@@ -19,10 +19,12 @@ SafeMinimapDock lets you manually collect minimap addon buttons into a simple do
 Hover your mouse over a minimap button and type : /mdock add  
 The button will be added to the dock.  
 Repeat this for each minimap button you want to add.  
+By removing or adding minimap button in a specific order, you can choose the final layout.  
 
 ## /mdock remove  
 Hover over a button already in the dock and type : /mdock remove  
 The button will be removed from the dock and its original positioning behavior restored.  
+By removing or adding minimap button in a specific order, you can choose the final layout.  
 
 ## /mdock show  
 Shows the dock background and the MINIMAP handle and keeps the icons visible.  
