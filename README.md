@@ -32,7 +32,8 @@ Use this when you want to see or move the dock.
 
 ## /mdock hide  
 Returns the dock to its normal hidden mode.  
-The frame and MINIMAP handle disappear. The icons will only appear when you hover over the dock area and will fade out again when you move away.  
+The frame and MINIMAP handle disappear.  
+The icons will only appear when you hover over the dock area and will fade out again when you move away.  
 
 ## /mdock list  
 Lists all minimap buttons currently registered with SafeMinimapDock.  
