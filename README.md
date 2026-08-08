@@ -2,8 +2,6 @@ A small minimap button organizer for WoW 1.12.
 
 SafeMinimapDock lets you manually collect minimap addon buttons into a simple dock without automatically scanning or grabbing every minimap frame.  
 
-Buttons are arranged in rows of 5 icons.  
-
 ## Features  
 
 - 5 minimap buttons per row  
@@ -41,7 +39,7 @@ Lists all minimap buttons currently registered with SafeMinimapDock.
 Resets the dock position.  
 
 ## Moving the dock  
-Use /mdock show  
+Use : /mdock show  
 Then drag the MINIMAP handle to wherever you want the icons.  
 Once you're finished, use : /mdock hide  
 The dock becomes invisible again, while hovering over its location reveals your minimap buttons.  
